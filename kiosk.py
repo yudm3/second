@@ -1,8 +1,6 @@
 import streamlit as st
 
-st.header("Yugay Dmitriy:sunglasses:")
-
-st.header("21900844")
+st.header("Women:coffee:")
 
 st.title("Order")
 
